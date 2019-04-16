@@ -1,6 +1,6 @@
 # Manipulating DataFrames with pandas
 
-The data analysis is documented in Manipulating_DataFrames_with_pandas.ipynb. The raw data files are also stored in the repository. 
+The data analysis is documented in [Manipulating_DataFrames_with_pandas.ipynb](https://github.com/iDataist/Manipulating-DataFrames-with-pandas/blob/master/Manipulating_DataFrames_with_pandas.ipynb). The raw data files are also stored in the repository. 
 
 - Extracting and transforming data: index, slice, filter, and transform DataFrames
 
