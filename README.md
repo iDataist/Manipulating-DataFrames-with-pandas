@@ -1,5 +1,7 @@
 # Manipulating DataFrames with pandas
 
+The data analysis is documented in Manipulating_DataFrames_with_pandas.ipynb. The raw data files are also stored in the repository. 
+
 - Extracting and transforming data: index, slice, filter, and transform DataFrames
 
 - Advanced indexing: extract data with multiIndexes, or hierarchical indexes
